@@ -1,0 +1,19 @@
+body{
+    margin: auto;
+    background-image: linear-gradient(rgb(235, 117, 117),rgb(71, 71, 166));
+    /* height: 100vh; */
+    
+}
+
+ul{
+    list-style-type: square;
+}
+
+.highlight{
+ color: chartreuse;
+}
+h1,h3{
+    text-align: center;
+    background-color: black;
+    color: crimson;
+}
